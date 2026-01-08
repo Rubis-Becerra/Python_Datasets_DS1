@@ -10,23 +10,20 @@ Objetivos del proyecto
 ________________________________________
 Estructura del repositorio
 Python_Datasets_DS1/
-│
-├── Datasets+Becerra.ipynb # Notebook principal de análisis
-│
-├── data/ # Carpeta de datasets
-│ ├── dairy_dataset.csv
-│ ├── pharma_data_retail.csv
-│ └── renewable_energy.csv
-│
-└── README.md # Documentación del proyecto
+
+  Datasets+Becerra.ipynb # Notebook principal de análisis
+
+  data/ # Carpeta de datasets
+      dairy_dataset.csv
+      pharma_data_retail.csv
+      renewable_energy.csv
+  
+  README.md # Documentación del proyecto
 ________________________________________
 Datasets incluidos
--Dairy Dataset
-Datos relacionados con producción y ventas del sector lácteo.
--Pharma Retail Dataset
-Información de ventas minoristas del sector farmacéutico.
--Renewable Energy Dataset
-Datos asociados a generación y consumo de energías renovables.
+-Dairy Dataset: Datos relacionados con producción y ventas del sector lácteo.
+-Pharma Retail Dataset: Información de ventas minoristas del sector farmacéutico.
+-Renewable Energy Dataset: Datos asociados a generación y consumo de energías renovables.
 ________________________________________
 Herramientas utilizadas
 •	Python
@@ -41,7 +38,7 @@ git clone https://github.com/Rubis-Becerra/Python_Datasets_DS1.git
 2.	Abrir el notebook Datasets+Becerra.ipynb
 3.	Ejecutar las celdas para explorar los datasets
 ________________________________________
-Autora
+Autora:
 Rubis Becerra
 Data Analyst | Ingeniera Civil 
 
