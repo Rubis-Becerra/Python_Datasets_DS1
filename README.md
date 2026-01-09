@@ -1,3 +1,4 @@
+
 # Python Datasets for Data Science
 
 Este repositorio reúne datasets en formato CSV y un notebook de exploración utilizados para prácticas y proyectos de Data Science / Análisis de Datos.
@@ -12,18 +13,21 @@ Este repositorio reúne datasets en formato CSV y un notebook de exploración ut
 
 •	Servir como base reutilizable para futuros proyectos de Data Science.
 
-## 🗂️ Estructura del repositorio
+## 📁 Repository Structure
+
+```text
 Python_Datasets_DS1/
+│
+├── Datasets+Becerra.ipynb    # Main analysis notebook
+│
+├── data/                    # Datasets folder
+│   ├── dairy_dataset.csv
+│   ├── pharma_data_retail.csv
+│   └── renewable_energy.csv
+│
+└── README.md
+```
 
-── Datasets+Becerra.ipynb # Notebook principal de análisis
-
-── data/ # Carpeta de datasets
-
-──── dairy_dataset.csv
-
-──── pharma_data_retail.csv
-
-──── renewable_energy.csv
 
 ## 📁 Datasets incluidos
 🥛 Dairy Dataset: Producción y ventas del sector lácteo.
@@ -33,13 +37,16 @@ Python_Datasets_DS1/
 ⚡ Renewable Energy Dataset: Generación y consumo de energías renovables.
 
 
-## 🛠️ Herramientas utilizadas
+## 🛠️ Tech Stack
 
-![](https://img.shields.io/badge/-Python-blue.svg)
-![](https://img.shields.io/badge/-Pandas-purple.svg)
-![](https://img.shields.io/badge/-NumPy-lightblue.svg)
-![](https://img.shields.io/badge/-Matplotlib/Seaborn-teal.svg)
-![](https://img.shields.io/badge/-JupyterNotebook-orange.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
 
 ## Cómo utilizar este repositorio
 1.	Clonar el repositorio:
